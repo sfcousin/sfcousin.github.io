@@ -10,8 +10,9 @@ Publications
 {::comment}Use custom CSL file `_bib/jasa-md.csl`, derived from JASA {:/comment}
 
 Articles 2023
-0.	"Exploiting solid-state dynamic nuclear polarization NMR spectroscopy to establish the spatial distribution of polymorphic phases in a solid material"  **Cousin, S.F.", Hughes, C.E., Ziarelli, F. Viel, S., Mollica, G., Harris, K.D.M., Pinon, A.C., Thureau, P., Chem. Science., 10121-10128
-0.	“Zero-to Ultralow-Field Nuclear Magnetic Resonance Enhanced with Dissolution Dynamic Nuclear Polarization“. Picazo-Frutos R., Stern Q., Blanchard J., Cala O., Ceillier M., **Cousin S.F.**, Eills J., Elliot S.J., Jannin S. Budker D. Anal, 95,2, 720-729 
+0.	"Polarization Amplification in Dynamic Nuclear Polarization Magic-Angle Spinning Solid-State Nuclear Magnetic Resonance by Solubilizing Traditional Ionic Salts". F. Ferrer, M. Juramy, R. Jabbour, **S.F. Cousin**, F. Ziarelli, G. Mollica, P. Thureau, and Stéphane Viel J Phys. Chem. Lett. 2023, 14, 43, 9619-9623 [[DOI]](https://doi.org/10.1021/acs.jpclett.3c02455)
+0.	"Exploiting solid-state dynamic nuclear polarization NMR spectroscopy to establish the spatial distribution of polymorphic phases in a solid material"  **Cousin, S.F.", Hughes, C.E., Ziarelli, F. Viel, S., Mollica, G., Harris, K.D.M., Pinon, A.C., Thureau, P., Chem. Science., 10121-10128 [[DOI]](https://doi.org/10.1039/d3sc02063k)
+0.	“Zero-to Ultralow-Field Nuclear Magnetic Resonance Enhanced with Dissolution Dynamic Nuclear Polarization“. Picazo-Frutos R., Stern Q., Blanchard J., Cala O., Ceillier M., **Cousin S.F.**, Eills J., Elliot S.J., Jannin S. Budker D. Anal, 95,2, 720-729 [[DOI]](https://doi.org/10.1021/acs.analchem.2c02649)
 0.	“The role of electron polarization on electron driven spin diffusion.“ Chessari A., **Cousin S.F.**, Jannin. S., Stern Q.. ArXiv	
 
 Articles 2022
