@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to this scientific webpage, built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted via [GitHub pages](https://pages.github.com).
+GitHub Pages is a free and accessible platform that facilitates the dissemination of scientific knowledge—an increasingly essential aspect of modern research.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+We also wish to acknowledge the invaluable contributions of the open-source community. This site builds upon the excellent Minimal Mistakes Jekyll theme by Michael Rose, which was extended to better suit academic needs. The template supports a wide range of content types relevant to researchers, including publications, presentations, teaching materials, portfolios, blog posts, and an automatically generated CV.
 
 A data-driven personal website
 ======
